@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{3BDD7172-2FE5-44A1-A30C-2B4D75EA7EE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterService", "InterService\InterService.csproj", "{9F7AC033-FC77-4152-A0A9-52C80D45E0A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlTask", "MySqlTask\MySqlTask.csproj", "{03568EF0-172D-4CEB-98B2-661409A85964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enity", "Enity\Enity.csproj", "{DED962A1-9E19-4453-B6AE-4E4186D6C10F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BDD7172-2FE5-44A1-A30C-2B4D75EA7EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDD7172-2FE5-44A1-A30C-2B4D75EA7EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDD7172-2FE5-44A1-A30C-2B4D75EA7EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDD7172-2FE5-44A1-A30C-2B4D75EA7EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7AC033-FC77-4152-A0A9-52C80D45E0A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7AC033-FC77-4152-A0A9-52C80D45E0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7AC033-FC77-4152-A0A9-52C80D45E0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7AC033-FC77-4152-A0A9-52C80D45E0A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03568EF0-172D-4CEB-98B2-661409A85964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03568EF0-172D-4CEB-98B2-661409A85964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03568EF0-172D-4CEB-98B2-661409A85964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03568EF0-172D-4CEB-98B2-661409A85964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED962A1-9E19-4453-B6AE-4E4186D6C10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED962A1-9E19-4453-B6AE-4E4186D6C10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED962A1-9E19-4453-B6AE-4E4186D6C10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED962A1-9E19-4453-B6AE-4E4186D6C10F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

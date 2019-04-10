@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\fhl165033213\MySqlTask\bin\Debug\fhl165033213.MySqlTask.dll
+C:\Users\Lenovo\Desktop\fhl165033213\MySqlTask\bin\Debug\fhl165033213.MySqlTask.pdb
+C:\Users\Lenovo\Desktop\fhl165033213\MySqlTask\obj\Debug\fhl165033213.MySqlTask.dll
+C:\Users\Lenovo\Desktop\fhl165033213\MySqlTask\obj\Debug\fhl165033213.MySqlTask.pdb
+C:\Users\Lenovo\Desktop\fhl165033213\MySqlTask\obj\Debug\MySqlTask.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\fhl165033213\MySqlTask\bin\Debug\fhl165033213.Enity.dll
+C:\Users\Lenovo\Desktop\fhl165033213\MySqlTask\bin\Debug\fhl165033213.Enity.pdb
+C:\Users\willow\Desktop\fhl165033213(1)\MySqlTask\bin\Debug\fhl165033213.MySqlTask.dll
+C:\Users\willow\Desktop\fhl165033213(1)\MySqlTask\bin\Debug\fhl165033213.MySqlTask.pdb
+C:\Users\willow\Desktop\fhl165033213(1)\MySqlTask\bin\Debug\fhl165033213.Enity.dll
+C:\Users\willow\Desktop\fhl165033213(1)\MySqlTask\bin\Debug\fhl165033213.Enity.pdb
+C:\Users\willow\Desktop\fhl165033213(1)\MySqlTask\obj\Debug\MySqlTask.csprojResolveAssemblyReference.cache
+C:\Users\willow\Desktop\fhl165033213(1)\MySqlTask\obj\Debug\fhl165033213.MySqlTask.dll
+C:\Users\willow\Desktop\fhl165033213(1)\MySqlTask\obj\Debug\fhl165033213.MySqlTask.pdb
